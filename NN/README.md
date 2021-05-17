@@ -13,3 +13,10 @@ Logistic_regression(solution)
 Logistic_regression
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Azarodnyuk/Lectures-AI-and-Qubit/blob/master/NN/Logistic_regression.ipynb)
+
+Tensors and AG
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Azarodnyuk/Lectures-AI-and-Qubit/blob/master/NN/Tensors_and_AG.ipynb)
+
+
+
